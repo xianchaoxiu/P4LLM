@@ -2,15 +2,19 @@
 
 
 I currently focus on pruning the large language models , including
-- [Surveys](#Surveys)
-- [Structured Pruning](#MO)
-- [Semi-structured Pruning](#AD)
-- [Unstructured Pruning](#SV)
-- [Application](#SA)
+# Pruning for Large Language Models
 
+- 📄 **Papers**
+  - [Survey](#survey)
+  - [Structured Pruning](#structured-pruning)
+  - [Semi-structured Pruning](#semi-structured-pruning)
+  - [Unstructured Pruning](#unstructured-pruning)
+
+- 🛠️ **Application**
+  
  
   
-<strong> Last Update: 2025/11/17 </strong>
+<strong> Last Update: 2025/12/2 </strong>
 
 
 
