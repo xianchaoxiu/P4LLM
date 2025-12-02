@@ -29,7 +29,7 @@ I am currently focusing on pruning large language models, including
 - [2024.01] Model Compression and Efficient Inference for Large Language Models: A Survey, CoRR [[Paper](https://openreview.net/forum?id=rNoHBvNzHn)]
 
 ### Unstructured Pruning
-
+- [2023.07] SparseGPT: Massive Language Models Can be Accurately Pruned in One-shot, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3618408.3618822)][[Code](https://github.com/IST-DASLab/sparsegpt)]
 ### Structured Pruning
 
 ### Semi-structured Pruning
