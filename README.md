@@ -1,7 +1,7 @@
 # Pruning for Large Language Models
 
 
-I currently focus on pruning the large language models , including
+I am currently focusing on pruning large language models, including
 # Pruning for Large Language Models
 
 - 📄 **Papers**
