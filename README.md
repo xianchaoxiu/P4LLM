@@ -33,4 +33,5 @@ I am currently focusing on pruning large language models, including
 ### Structured Pruning
 - [2024.10] DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models, NIPS [[Paper](https://dl.acm.org/doi/abs/10.5555/3737916.3740221)]
 - [2024.07] MINI-LLM: Memory-Efficient Structured Pruning for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2407.11681)]
+- [2024.07] Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation, COLM [[Paper](https://openreview.net/pdf?id=4aqq9xTtih)][[Code](https://github.com/hdong920/GRIFFIN)]
 ### Semi-structured Pruning
