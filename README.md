@@ -15,7 +15,7 @@ I am currently focusing on pruning large language models, including
   
  
   
-<strong> Last Update: 2025/12/2 </strong>
+<strong> Last Update: 2025/12/16 </strong>
 
 
 
@@ -29,8 +29,10 @@ I am currently focusing on pruning large language models, including
 - [2024.01] Model Compression and Efficient Inference for Large Language Models: A Survey, arXiv [[Paper](https://openreview.net/forum?id=rNoHBvNzHn)]
 
 ### Unstructured Pruning
+- [2025.11] FastForward Pruning: Efficient LLM Pruning via Single-Step Reinforcement Learning, arXiv [[Paper](https://arxiv.org/abs/2511.18977)]
 - [2023.07] SparseGPT: Massive Language Models Can be Accurately Pruned in One-shot, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3618408.3618822)][[Code](https://github.com/IST-DASLab/sparsegpt)]
 ### Structured Pruning
+- [2025.11] EvoP: Robust LLM Inference via Evolutionary Pruning, NLPCC [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-3343-5_36)][[Code](https://github.com/luffy06/EvoP)]
 - [2025.05] Let LLM Tell What to Prune and How Much to Prune, ICML [[Paper](https://openreview.net/forum?id=zFR5aWGaUs)][[Code](https://github.com/yangmzevery/PruneLLM)]
 - [2025.05] SlimLLM: Accurate Structured Pruning for Large Language Models, ICML [[Paper](https://openreview.net/forum?id=2xjUkU7FDb)]
 - [2025.04] Toward Adaptive Large Language Models Structured Pruning via Hybrid-grained Weight Importance Assessment, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34078)]
